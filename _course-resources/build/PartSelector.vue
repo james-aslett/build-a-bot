@@ -50,9 +50,6 @@ const selectPreviousPart = () => {
 }
 
 .sale {
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
   color: white;
   background-color: red;
   padding: 3px;
